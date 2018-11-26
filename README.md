@@ -1,4 +1,4 @@
-# facelift – Backend-Theme für Contao 4
+# facelift – Backend-Theme-Alternative für Contao 4
 
 
 "facelift" ist eine Backend-Theme-Alternative für Contao 4.
@@ -23,5 +23,7 @@ Schritt2
 Wähle in Contao-Backend bei den Profil-Einstellungen des angemeldeten Benutzers das Theme "facelift" aus. 
 Die Profil-Einstellungen sind über das Dropdown-Menü rechts-oben erreichbar.  
 
+<br>
+<br>
 
 ![](screenshot.png)  
