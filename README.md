@@ -12,12 +12,12 @@
 
 ### Installation:
 
-####Schritt1  
+Schritt1  
 Lade das Theme herunter und verschiebe den Ordner "facelift" in folgendes Verzeichnis deiner Contao-Installation:
 my-contao-installation/system/themes/
 
 
-####Schritt2  
+Schritt2  
 Wähle in Contao-Backend bei den Profil-Einstellungen des angemeldeten Benutzers das Theme "facelift" aus. 
 Die Profil-Einstellungen sind über das Dropdown-Menü rechts-oben erreichbar.
 
