@@ -62,7 +62,8 @@ a.tl_submit,
 }
 
 button {
-	cursor: pointer
+	cursor: pointer;
+	/* border-radius: 0.6rem; */
 }
 
 body {
@@ -134,7 +135,8 @@ th {
 }
 
 span.mandatory {
-	color: #c33
+	color: #D12C2C;
+	padding: .1rem;
 }
 
 a {
@@ -211,7 +213,7 @@ p {
 }
 
 .widget * {
-	font-size: .875rem
+	font-size: .85rem;
 }
 
 .widget>div {
@@ -252,12 +254,12 @@ optgroup {
 fieldset.tl_checkbox_container,
 fieldset.tl_radio_container {
 	border: 0;
-	margin: 15px 0 1px;
-	padding: 0
+	margin: .5rem 0 0.3rem;
+	padding: 0;
 }
 
 fieldset.tl_checkbox_container {
-	line-height: 15px
+	line-height: 1.1rem;
 }
 
 fieldset.tl_radio_container {
@@ -314,7 +316,7 @@ fieldset.radio_container {
 .tl_text_unit,
 .tl_text_trbl,
 .tl_text_interval {
-	margin: 2px 0;
+	margin: 0.1rem 0 0.1rem 0rem;
 	box-sizing: border-box;
 	border: 1px solid #ccc;
 	padding: 3px 6px 4px;
@@ -417,6 +419,8 @@ select[multiple] {
 	color: #666;
 	/* line-height: 0.8rem; */
 	font-size: 0.75rem;
+	background-image: url('images/dropdown-arrow.svg');
+	
 }
 
 .tl_select[disabled],
@@ -521,11 +525,11 @@ select[multiple] {
 .tl_submit {
 	padding: 7px 12px;
 	border: 1px solid #aaa;
-	border-radius: 2px;
+	border-radius: .2rem;
 	box-sizing: border-box;
 	cursor: pointer;
 	background: #eee;
-	transition: background .2s ease
+	transition: background .2s ease;
 }
 
 .tl_panel .tl_submit,
@@ -550,7 +554,8 @@ select[multiple] {
 }
 
 a.tl_submit {
-	display: inline-block
+	display: inline-block;
+	margin-bottom: 0.2rem;
 }
 
 .split-button {
@@ -624,7 +629,7 @@ a.tl_submit {
 
 .split-button>button[type=submit] {
 	position: relative;
-	border-radius: 2px 0 0 2px
+	border-radius: .2rem 0 0 .2rem;
 }
 
 .split-button>button[type=button] {
@@ -632,9 +637,9 @@ a.tl_submit {
 	background: #fff;
 	border: 1px solid #aaa;
 	border-left: 0;
-	border-radius: 0 2px 2px 0;
+	border-radius: 0 .2rem .2rem 0;
 	box-sizing: border-box;
-	transition: background .2s ease
+	transition: background .2s ease;
 }
 
 .split-button>button[type=button].active,

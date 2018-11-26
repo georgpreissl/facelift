@@ -3,10 +3,10 @@
 <svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="10px" height="10px" viewBox="0 0 10 10" style="enable-background:new 0 0 10 10;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:none;stroke:#5077A2;stroke-width:1.4523;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st0{fill:none;stroke:#666666;stroke-width:1.5024;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
 </style>
 <g>
-	<line class="st0" x1="8.2" y1="3.8" x2="5" y2="6.9"/>
-	<line class="st0" x1="1.9" y1="3.8" x2="5" y2="6.9"/>
+	<line class="st0" x1="8.3" y1="3.4" x2="5" y2="6.6"/>
+	<line class="st0" x1="1.7" y1="3.4" x2="5" y2="6.6"/>
 </g>
 </svg>
