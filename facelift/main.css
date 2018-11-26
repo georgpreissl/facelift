@@ -889,7 +889,7 @@ table.tl_listing{
     background: #ffffff;
 }
 .tl_folder{
-    padding:5px 0;
+    padding: 5px 0 5px 0;
     border-bottom:1px solid #e9e9e9;
     background: #f9f9f9;
 }
@@ -965,7 +965,9 @@ table.tl_listing{
     margin:0;
     padding-left:6px;
     padding-right:6px;
-    list-style-type:none
+    list-style-type:none;
+    padding-top: 0.4rem;
+    padding-bottom: 0.2rem;
 }
 .tl_listing li.parent{
     display:inline;
