@@ -4,6 +4,8 @@
 "facelift" ist eine Backend-Theme-Alternative für Contao 4.
 
 
+
+
 ### Enthält:
 * schlichtere Icons, basierend auf den https://feathericons.com
 * die besser lesbare "Open Sans" anstatt der "Lato"
@@ -19,6 +21,7 @@ my-contao-installation/system/themes/
 
 Schritt2  
 Wähle in Contao-Backend bei den Profil-Einstellungen des angemeldeten Benutzers das Theme "facelift" aus. 
-Die Profil-Einstellungen sind über das Dropdown-Menü rechts-oben erreichbar.
+Die Profil-Einstellungen sind über das Dropdown-Menü rechts-oben erreichbar.  
 
 
+![](screenshot.png)  
