@@ -1,0 +1,7 @@
+#exclude contao er-infos
+/_contao-er/*
+
+#exclude os x files
+.DS_Store
+farben.rtf
+/vendor/
