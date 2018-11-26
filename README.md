@@ -26,4 +26,4 @@ Die Profil-Einstellungen sind über das Dropdown-Menü rechts-oben erreichbar.
 <br>
 <br>
 
-![](screenshot.png)  
+![](screenshot-1.png)  
