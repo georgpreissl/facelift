@@ -1,28 +1,24 @@
-# gp_grix – Bootstrap-Sitebuilder für Contao 3.5
+# facelift – Backend-Theme für Contao 4
 
 
-GRIX vereinfacht die Erstellung und Bearbeitung von grid-basierten Seiteninhalten in Contao.
+"facelift" ist eine Backend-Theme-Alternative für Contao 4.
 
 
-### Vorteile
-* Inhaltselemente werden auch im Backend in der Grid-Ansicht angezeigt
-* Bootstrap-Eigenschaften einer Spalte können mit wenigen Klicks geändert werden
-* Schneller Wechsel zwischen den Responsive-Breakpoints im Backend
-* Reihen und Spalten können einfach ineinander verschachtelt werden
-* CSS-Klassen können mit einem Klick den Spalten und Reihen zugewiesen werden
-* Inhaltselemente können aus anderen Artikeln importiert werden
+### Enthält:
+* schlichtere Icons, basierend auf den https://feathericons.com
+* die besser lesbare "Open Sans" anstatt der "Lato"
+* diverse kleinere Änderungen am Gesamtbild
 
 
-Installation:
-https://youtu.be/RlQWJwvOen0
+### Installation:
 
-Verwendung:
-https://youtu.be/0yrzWbtfiRo
-
-Erstellung verschachtelter Reihen und Spalten:
-https://youtu.be/jc-GIHvdaoo
+####Schritt1
+Verschiebe den Ordner "facelift" in das Verzeichniss:
+my-contao-installation/system/themes/
 
 
+####Schritt2
+Wähle in den Profil-Einstellungen des angemeldeten Backend-Benutzers das Theme "facelift" aus. 
  
 
 
