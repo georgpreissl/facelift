@@ -68,7 +68,7 @@ button {
 
 body {
 	font: .83rem/1 Open Sans, sans-serif;
-	color: #333;
+	color: #0f1c26;
 }
 
 @media (-webkit-min-device-pixel-ratio:2),
@@ -205,7 +205,8 @@ p {
 .widget {
 	margin-left: 15px;
 	margin-right: 15px;
-	position: relative
+	position: relative;
+	padding-top: 0.4rem;
 }
 
 .widget {
@@ -418,9 +419,8 @@ select[multiple] {
 	border-radius: 0.3rem;
 	color: #666;
 	/* line-height: 0.8rem; */
-	font-size: 0.75rem;
+	font-size: 0.85rem;
 	background-image: url('images/dropdown-arrow.svg');
-	
 }
 
 .tl_select[disabled],
@@ -466,7 +466,7 @@ select[multiple] {
 }
 
 .tl_checkbox_single_container {
-	margin: 16px 0 1px
+	/* margin: 16px 0 1px */
 }
 
 .tl_checkbox_single_container label {
