@@ -931,15 +931,15 @@ table.tl_listing{
     max-height:50px;
     width:auto;
     height:auto;
-    margin:0 0 2px -18px
+    margin: 0.4rem .1rem 2px -18px;
 }
 .tl_file_manager .preview-important{
     max-width:320px;
     max-height:40px;
     width:auto;
     height:auto;
-    margin:0 0 2px 0;
-    vertical-align:bottom
+    margin: 0.4rem 0 2px 0;
+    vertical-align:bottom;
 }
 .tl_listing .tl_right {
     /* padding:0 0 1px 9px; */
@@ -966,7 +966,7 @@ table.tl_listing{
     padding-left:6px;
     padding-right:6px;
     list-style-type:none;
-    padding-top: 0.4rem;
+    padding-top: 0.3rem;
     padding-bottom: 0.2rem;
 }
 .tl_listing li.parent{
