@@ -27,3 +27,8 @@ Die Profil-Einstellungen sind über das Dropdown-Menü rechts-oben erreichbar.
 <br>
 
 ![](screenshot-1.png)  
+Facelift-Theme
+
+
+![](screenshot-2.png)  
+Standard-Theme
