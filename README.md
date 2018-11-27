@@ -9,7 +9,7 @@
 ### Enthält:
 * schlichtere Icons, basierend auf den https://feathericons.com
 * die besser lesbare "Open Sans" anstatt der "Lato"
-* diverse kleinere Änderungen am Gesamtbild
+* diverse Änderungen am Gesamtbild
 
 
 ### Installation:
@@ -29,6 +29,8 @@ Die Profil-Einstellungen sind über das Dropdown-Menü rechts-oben erreichbar.
 ![](screenshot-1.png)  
 Facelift-Theme
 
+<br>
+<br>
 
 ![](screenshot-2.png)  
 Standard-Theme
