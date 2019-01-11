@@ -947,9 +947,10 @@ table.tl_listing{
     display: flex;
 }
 .tl_listing .tl_right a {
-	/* display: inline-block; */
+	display: inline-block;
 	/* border: 1px solid; */
 	padding: .07rem 0.12rem;
+	width: 1.1rem;
 }
 .tl_listing .tl_right a img {
 	display: block;

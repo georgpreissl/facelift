@@ -1,1 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 500 500"><linearGradient id="a" gradientUnits="userSpaceOnUse" x1="581.053" y1="97.656" x2="334.669" y2="344.039" gradientTransform="rotate(-90 353.12 354.287)"><stop offset="0" stop-color="#74b739"/><stop offset="1" stop-color="#56991c"/></linearGradient><path fill="url(#a)" d="M254.416 50.803v98.48c0 2.802-15.773 5.092-35.052 5.092H82.93c-19.28 0-35.054 15.774-35.054 35.053V309.67c0 19.278 15.774 35.052 35.053 35.052h136.434c19.28 0 35.052 1.984 35.052 4.412v100.329c0 2.828 11.35-5.812 25.226-19.197l162.075-156.38c13.876-13.386 13.876-35.29 0-48.678L279.642 68.83c-13.875-13.386-25.226-21.498-25.226-18.027z"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="16px" height="16px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#4DBD5D;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g>
+	<g>
+		<g>
+			<line class="st0" x1="9.3" y1="4.1" x2="13.3" y2="8.1"/>
+			<line class="st0" x1="9.3" y1="11.9" x2="13.3" y2="8.1"/>
+		</g>
+	</g>
+	<line class="st0" x1="12.5" y1="8.1" x2="2.7" y2="8.1"/>
+</g>
+</svg>

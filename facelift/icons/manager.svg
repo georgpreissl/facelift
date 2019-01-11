@@ -1,1 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16"><linearGradient id="a" gradientUnits="userSpaceOnUse" x1="3.088" y1="4.073" x2="10.972" y2="11.957"><stop offset="0" stop-color="#74b739"/><stop offset="1" stop-color="#56991c"/></linearGradient><path fill="url(#a)" d="M8.141 14.375v-3.152c0-.09-.504-.162-1.122-.162H2.654a1.126 1.126 0 0 1-1.122-1.122V6.091c0-.617.504-1.122 1.122-1.122H7.02c.617 0 1.122-.063 1.122-.141v-3.21c0-.09.363.186.808.614l5.186 5.004a1.077 1.077 0 0 1 0 1.557L8.95 13.797c-.446.429-.809.688-.809.578z"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="16px" height="16px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#4DBD5D;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g>
+	<g>
+		<g>
+			<line class="st0" x1="9.3" y1="4.2" x2="13.3" y2="8.2"/>
+			<line class="st0" x1="9.3" y1="12" x2="13.3" y2="8.2"/>
+		</g>
+	</g>
+	<line class="st0" x1="12.5" y1="8.2" x2="2.7" y2="8.2"/>
+</g>
+</svg>
