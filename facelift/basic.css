@@ -207,6 +207,7 @@ p {
 	margin-right: 15px;
 	position: relative;
 	padding-top: 0.4rem;
+	/* margin-bottom: 0.7rem; */
 }
 
 .widget {
@@ -218,7 +219,8 @@ p {
 }
 
 .widget>div {
-	font-size: 0
+	font-size: 0;
+	/* margin-bottom: 1.1rem; */
 }
 
 .widget>div>* {
@@ -413,7 +415,6 @@ select[multiple] {
 	box-sizing: border-box;
 	border: 1px solid #ccc;
 	padding: 0px 22px 0px 8px;
-	border-radius: 2px;
 	background: #fff url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDUwMCA1MDAiPjxsaW5lYXJHcmFkaWVudCBpZD0iYSIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiIHgxPSIxMzEuNTIzIiB5MT0iNDIuNjMiIHgyPSIzNjguNDc4IiB5Mj0iMjc5LjU4NCI+PHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjYjNiM2IzIi8+PHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjOTk5Ii8+PC9saW5lYXJHcmFkaWVudD48cGF0aCBmaWxsPSJ1cmwoI2EpIiBkPSJNMjUwIDM5Ni42NjZjLTEuMTU1IDAtNC4xMS0xLjgzMi03LjExMy02Ljc1bC0xNjkuNi0yNzcuNDU1Yy0yLjUxNy00LjExNC0zLjE5LTYuOTgtMy4yOC04LjMxNC44MjctLjMzIDIuNTY1LS44MTIgNS42MjctLjgxMmgzNDguNzMzYzMuMDYzIDAgNC43OTguNDgyIDUuNjI3LjgxMi0uMDkgMS4zMzQtLjc2NiA0LjItMy4yOCA4LjMxNWwtMTY5LjYgMjc3LjQ1N2MtMy4wMDUgNC45MTctNS45NiA2Ljc1LTcuMTE0IDYuNzV6Ii8+PC9zdmc+) right -16px center no-repeat;
 	background-origin: content-box;
 	cursor: pointer;
@@ -423,7 +424,17 @@ select[multiple] {
 	font-size: 0.8rem;
 	background-image: url('images/dropdown-arrow.svg');
 }
-
+.chzn-container-single .chzn-single {
+	border-radius: 0.3rem;
+	border: 1px solid #ccc;
+	height: auto;
+	/* padding: 0 .1rem; */
+	line-height: 1.65rem;
+}
+.chzn-container-single .chzn-single div b {
+	background-image: url('images/dropdown-arrow.svg');
+	
+}
 .tl_select[disabled],
 .tl_mselect[disabled],
 .tl_select_column[disabled],
@@ -525,7 +536,7 @@ select[multiple] {
 
 .tl_submit {
 	padding: 7px 12px;
-	border: 1px solid #aaa;
+	border: 1px solid #ccc;
 	border-radius: .2rem;
 	box-sizing: border-box;
 	cursor: pointer;
@@ -723,9 +734,9 @@ a.tl_submit {
 }
 
 .tl_tip {
-	height: 14px;
+	height: 0.7rem;
 	overflow: hidden;
-	cursor: help
+	cursor: help;
 }
 
 .tip-wrap {
@@ -763,7 +774,13 @@ a.tl_submit {
 .hover-row:hover .limit_toggler {
 	background-color: #fffce1!important
 }
-
+#sort_rsce_field_image,
+#sort_multiSRC {
+	margin-bottom: 0.4rem;
+	/* background-color: rgb(245, 245, 245); */
+	padding: 0.4rem;
+	border: 1px solid #e3e3e3;
+}
 @media (max-width:767px) {
 	.w50 {
 		float: none;

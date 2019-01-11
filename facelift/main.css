@@ -331,10 +331,10 @@ h2.sub_headline{
     color:#c33
 }
 .tl_confirm,.tl_confirm a{
-    color:#589b0e
+    color: #4dbd5d;
 }
 .tl_info,.tl_info a{
-    color:#006494
+    color: #497CB5;
 }
 .tl_new,.tl_new a{
     color:#d68c23
@@ -947,10 +947,10 @@ table.tl_listing{
     display: flex;
 }
 .tl_listing .tl_right a {
-	display: inline-block;
+	/* display: inline-block; */
 	/* border: 1px solid; */
 	padding: .07rem 0.12rem;
-	width: 1.1rem;
+	/* width: 1.1rem; */
 }
 .tl_listing .tl_right a img {
 	display: block;
@@ -1365,13 +1365,14 @@ ul.sortable button{
     top:0;
     right:0;
     border:0;
-    background:rgba(255,255,255,.7);
+    background: rgb(255, 255, 255);
     margin:0;
-    padding:0 0 2px;
+    padding: 0.2rem;
     font-size:22px;
     line-height:10px;
     cursor:pointer;
-    transition:all .1s linear
+    transition:all .1s linear;
+    border: 1px solid #efefef;
 }
 ul.sortable button:hover{
     background:rgba(255,255,255,.9)

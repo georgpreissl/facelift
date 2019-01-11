@@ -3,12 +3,12 @@
 <svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="16px" height="16px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:none;stroke:#7F878D;stroke-width:1.3771;stroke-linecap:round;stroke-linejoin:round;}
+	.st0{fill:none;stroke:#BBBBBB;stroke-width:1.3771;stroke-linecap:round;stroke-linejoin:round;}
+	.st1{fill:none;stroke:#BBBBBB;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round;}
 </style>
+<circle class="st0" cx="8" cy="8" r="7"/>
 <g>
-	<path class="st0" d="M6.8,2.3L1,12c-0.4,0.7-0.2,1.5,0.5,1.9c0.2,0.1,0.4,0.2,0.7,0.2h11.7c0.8,0,1.4-0.6,1.4-1.4
-		c0-0.2-0.1-0.5-0.2-0.7L9.2,2.3C8.8,1.6,7.9,1.4,7.3,1.8C7.1,1.9,6.9,2.1,6.8,2.3z"/>
-	<line class="st0" x1="8" y1="5.8" x2="8" y2="8.6"/>
-	<line class="st0" x1="8" y1="11.3" x2="8" y2="11.3"/>
+	<line class="st0" x1="8" y1="11.3" x2="8" y2="7.5"/>
+	<line class="st1" x1="8" y1="5.2" x2="8" y2="5.2"/>
 </g>
 </svg>
