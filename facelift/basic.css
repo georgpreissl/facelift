@@ -269,7 +269,8 @@ fieldset.tl_radio_container {
 
 fieldset.tl_checkbox_container legend,
 fieldset.tl_radio_container legend {
-	font-weight: 700
+	font-weight: 700;
+	margin-bottom: .1rem;
 }
 
 fieldset.checkbox_container,
@@ -419,7 +420,7 @@ select[multiple] {
 	border-radius: 0.3rem;
 	color: #666;
 	/* line-height: 0.8rem; */
-	font-size: 0.85rem;
+	font-size: 0.8rem;
 	background-image: url('images/dropdown-arrow.svg');
 }
 
