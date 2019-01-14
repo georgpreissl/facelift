@@ -236,7 +236,8 @@ p {
 }
 
 .widget h3 img {
-	margin-right: 3px
+	margin-right: 3px;
+	transform: translateY(-0.07rem) translateX(-.1rem);
 }
 
 .widget-captcha {
@@ -775,11 +776,20 @@ a.tl_submit {
 	background-color: #fffce1!important
 }
 #sort_rsce_field_image,
-#sort_multiSRC {
+#sort_multiSRC,
+#sort_singleSRC {
 	margin-bottom: 0.4rem;
 	/* background-color: rgb(245, 245, 245); */
 	padding: 0.4rem;
 	border: 1px solid #e3e3e3;
+}
+#sort_jumpTo {
+	margin-bottom: 0.4rem;
+	
+}
+.widget span.length {
+	color: #bbb !important;
+	
 }
 @media (max-width:767px) {
 	.w50 {
