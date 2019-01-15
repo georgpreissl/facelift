@@ -775,7 +775,7 @@ a.tl_submit {
 .hover-row:hover .limit_toggler {
 	background-color: #fffce1!important
 }
-#sort_rsce_field_image,
+.selector_container > ul,
 #sort_multiSRC,
 #sort_singleSRC {
 	margin-bottom: 0.4rem;
@@ -786,6 +786,12 @@ a.tl_submit {
 #sort_jumpTo {
 	margin-bottom: 0.4rem;
 	
+}
+#pp_url img {
+	/* -webkit-transform: translateY(-.1rem); */
+	-ms-transform: translateY(-.1rem);
+	/* transform: translateY(3.8rem); */
+	/* padding: .1rem 0 4.2rem 0; */
 }
 .widget span.length {
 	color: #bbb !important;

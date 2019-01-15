@@ -210,7 +210,7 @@ body.popup{
     background:#fff;
     border: 1px solid #ccc;
     border-radius: 0.3rem;
-    overflow: hidden;
+    overflow: visible;
     box-shadow: #00000017 0px 1px 0px;
 }
 .popup #main .content{
@@ -805,13 +805,21 @@ table.tl_listing{
     margin-bottom:3px
 }
 .tl_content_left{
-    line-height:16px
+    line-height: 18px;
 }
 .tl_content_right{
     float:right;
     text-align:right;
     margin-left:12px;
-    margin-top:-1px
+    margin-top: -1px;
+}
+.tl_content_right a img {
+	width: 1.1rem;
+	height: auto;
+	/* border: 1px solid; */
+}
+.tl_content .tl_content_right {
+	margin-top: 0.1rem;
 }
 .tl_content_right button{
     margin:0;
@@ -832,7 +840,9 @@ table.tl_listing{
 }
 .limit_height{
     overflow:hidden;
-    line-height:1.25
+    line-height:1.25;
+    max-width: 57rem;
+    /* border: 1px solid red; */
 }
 .limit_toggler{
     width:100%;
@@ -1007,9 +1017,9 @@ label.tl_change_selected{
     position:relative
 }
 .selector_container ul{
-    margin-bottom:1px;
+    margin-bottom: 6px;
     list-style-type:none;
-    overflow:hidden
+    overflow:hidden;
 }
 .selector_container li{
     margin-right:9px;
