@@ -354,18 +354,21 @@ h2.sub_headline{
     position:relative
 }
 .tl_img_submit{
-    width:16px;
-    height:16px;
+    width: 1.665rem;
+    height: 1.665rem;
     border:0;
     margin:0;
     padding:0;
-    text-indent:16px;
+    text-indent: -100rem;
     white-space:nowrap;
     overflow:hidden;
     position:relative;
-    top:9px;
+    top: .15rem;
     vertical-align:top;
-    cursor:pointer
+    cursor:pointer;
+    background-color: white !important;
+    border: 1px solid #ccc;
+    border-radius: .2rem;
 }
 .filter_apply{
     background:url(icons/filter-apply.svg) center center no-repeat
@@ -407,7 +410,7 @@ h2.sub_headline{
     width:86%
 }
 .tl_limit{
-    width:22%
+    width:22%;
 }
 .tl_limit .tl_select{
     width:52%;
