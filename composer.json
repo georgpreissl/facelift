@@ -1,0 +1,30 @@
+{
+    "name": "georgpreissl/facelift",
+    "description": "Back end theme alternative for Contao 4.",
+    "keywords": ["contao", "backend-theme"],
+    "type": "contao-backend-theme",
+    "license": "LGPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "Georg Preissl",
+            "email": "g.preissl@heidlmair.com",
+            "role": "Developer"
+        }
+    ],
+    "support":{
+        "email": "g.preissl@heidlmair.com",
+        "issues": "https://github.com/georgpreissl/facelift/issues",
+        "source": "https://github.com/georgpreissl/facelift"
+    },
+    "require":{
+        "contao/core-bundle": "^4.4"
+    },
+    "autoload":{
+        "psr-4": {
+            "GeorgPreissl\\Facelift\\": "src/"
+        }
+    },
+    "extra": {
+        "contao-manager-plugin": "GeorgPreissl\\Facelift\\ContaoManagerPlugin"
+    }
+}
