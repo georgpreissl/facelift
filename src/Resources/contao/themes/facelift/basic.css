@@ -206,7 +206,7 @@ p {
 	margin-left: 15px;
 	margin-right: 15px;
 	position: relative;
-	padding-top: 0.4rem;
+	padding-top: .5rem;
 	/* margin-bottom: 0.7rem; */
 }
 
@@ -321,7 +321,7 @@ fieldset.radio_container {
 .tl_text_unit,
 .tl_text_trbl,
 .tl_text_interval {
-	margin: 0.1rem 0 0.1rem 0rem;
+	margin: 0.2rem 0 0.1rem 0rem;
 	box-sizing: border-box;
 	border: 1px solid #ccc;
 	padding: 3px 6px 4px;
@@ -412,7 +412,7 @@ select[multiple] {
 .tl_select_column,
 .tl_select_unit,
 .tl_select_interval {
-	margin: 2px 0;
+	margin: 0.2rem 0 2px 0;
 	box-sizing: border-box;
 	border: 1px solid #ccc;
 	padding: 0px 22px 0px 8px;
@@ -685,7 +685,7 @@ a.tl_submit {
 .w50 {
 	width: calc(50% - 30px);
 	float: left;
-	height: 80px
+	min-height: 80px
 }
 
 .long {
@@ -719,7 +719,7 @@ a.tl_submit {
 }
 
 .cbx {
-	height: 56px
+	min-height: 40px
 }
 
 .subpal {
@@ -735,9 +735,10 @@ a.tl_submit {
 }
 
 .tl_tip {
-	height: 0.7rem;
+	height: 0.9rem;
 	overflow: hidden;
 	cursor: help;
+	padding-top: .2rem;
 }
 
 .tip-wrap {
@@ -795,6 +796,10 @@ a.tl_submit {
 }
 .widget span.length {
 	color: #bbb !important;
+	
+}
+#main_headline {
+	padding: 15px 0 0 15px;
 	
 }
 @media (max-width:767px) {
